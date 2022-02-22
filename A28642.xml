@@ -1,0 +1,851 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Manuductio ad coelum a poem in two parts I. Of joy and sadness ... II. Of patience ... / extracted out of the writings of the holy fathers and ancient philosophers by John Bona, a Cistertian Abbot, and turned into verse by James Chamberlayne.</title>
+            <author>Bona, Giovanni, 1609-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28642</idno>
+            <idno type="STC">Wing B3552</idno>
+            <idno type="STC">ESTC R32570</idno>
+            <idno type="EEBO-CITATION">12725053</idno>
+            <idno type="OCLC">ocm 12725053</idno>
+            <idno type="VID">66337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1031:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Manuductio ad coelum a poem in two parts I. Of joy and sadness ... II. Of patience ... / extracted out of the writings of the holy fathers and ancient philosophers by John Bona, a Cistertian Abbot, and turned into verse by James Chamberlayne.</title>
+                  <author>Bona, Giovanni, 1609-1674.</author>
+                  <author>Chamberlaine, James, Sir, d. 1699.</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley and M. Magnes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some errors in pagination.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66337:1" rendition="simple:additions"/>
+            <p>MANUDUCTIO ad COELUM.</p>
+            <p>A POEM. IN TWO PARTS.</p>
+            <list>
+               <item>
+                  <hi>I.</hi> Of Joy and Sadneſs. How a good Man ought to rejoice. He that looks before him is not caſt down. Several Antidotes againſt Sorrow.</item>
+               <item>
+                  <hi>II.</hi> Of Patience: The Occaſions and Effects of it. The Signs of it. An Exhortation to it; with Inſtructions how to behave our ſelves in Ad<g ref="char:EOLhyphen"/>verſity. The neceſſity of Perſeverance.</item>
+            </list>
+            <p>Extracted out of the Writings of the Holy Fathers and An<g ref="char:EOLhyphen"/>cient Philoſophers, by <hi>John Bona</hi> a <hi>Ciſtertian</hi> Abbot:</p>
+            <p>And turn'd into Verſe by <hi>James Chamberlayne,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley</hi> and <hi>M. Magnes,</hi> in <hi>Ruſſel-Street</hi> in <hi>Covent-Garden,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <div n="1" type="part">
+               <pb facs="tcp:66337:2"/>
+               <pb n="1" facs="tcp:66337:2"/>
+               <head>MANUDUCTIO ad COELUM. A POEM.</head>
+               <head type="sub">PART I.</head>
+               <argument>
+                  <p>Of Joy and Sadneſs. How a good Man ought to rejoyce. He that looks before him is not caſt down. Several <hi>Anti<g ref="char:EOLhyphen"/>dotes</hi> againſt Sorrow.</p>
+               </argument>
+               <lg>
+                  <head>I.</head>
+                  <l>JOY, when it once doth ſo exceſſive grow,</l>
+                  <l>That it all Bounds of Reaſon doth or'e-flow,</l>
+                  <l>Draws ever after't, as we daily find,</l>
+                  <l>A total Diſſolution of the Mind.</l>
+                  <l>We then muſt have a prudent care of that,</l>
+                  <l>And likewiſe muſt our Joys ſo moderate,</l>
+                  <l>That if need be from Mirth, to Grief we may</l>
+                  <l>Diſpoſe our ſelves, act readily each way.</l>
+                  <l>Our bleſſed Saviour, who muſt ſure be thought</l>
+                  <l>The ableſt Arbiter of things, ſays not</l>
+                  <pb n="2" facs="tcp:66337:3"/>
+                  <l>Thoſe are the Bleſt that laugh, and frollick here,</l>
+                  <l>But they that Mourn the truly Bleſſed are.</l>
+                  <l>It were indeed a ſtrange indecency</l>
+                  <l>For one that doth profeſs himſelf to be</l>
+                  <l>Purſuant of the great Eternity,</l>
+                  <l>Among ſo many perils that are found</l>
+                  <l>Daily the All of Man to Circle round,</l>
+                  <l>So many juſt occaſions as there are</l>
+                  <l>Of ſadneſs, to be always Gigling here,</l>
+                  <l>Making of antick mouths, and like a Boy</l>
+                  <l>Laughing to tranſport for each trifling Toy.</l>
+                  <l>This Worlds fugacious Pleaſures, and the Joys</l>
+                  <l>Of which we talk, and make ſo great a Noiſe,</l>
+                  <l>Are frequently obſerv'd to be the Fate,</l>
+                  <l>And Prodromus of a moſt anxious ſtate:</l>
+                  <l>There neither true nor ſolid Joy can be,</l>
+                  <l>But in a Conſcience juſt, ſerene and free,</l>
+                  <l>He that doth cheriſh, and take care o'th' one,</l>
+                  <l>Shall find the other his Companion,</l>
+                  <l>For in his Breaſt it grows, there takes delight,</l>
+                  <l>And baffles all the efforts of baſe deſpight.</l>
+                  <l>All other Joy, but what proceeds from this,</l>
+                  <l>Wants ſubſtance, and but light and trivial is;</l>
+                  <l>And there are thoſe that Laugh, who in that while</l>
+                  <l>Of their falſe Mirth, have little cauſe to ſmile.</l>
+                  <l>True Joy a ſerious matter is, and there</l>
+                  <l>Muſt be a Conſcience from Pollutions clear,</l>
+                  <l>Intentions honeſt, Actions moſt upright,</l>
+                  <l>A great contempt of this vain Worlds delight,</l>
+                  <l>And the continu'd Series of a fair</l>
+                  <l>Unſpotted Life, for to maintain it here.</l>
+                  <l>There never can be perfect Joy without</l>
+                  <l>Impartial Juſtice, Temp'rance, and a ſtout</l>
+                  <l>Undaunted Courage, that is reſolute.</l>
+                  <l>This Virtue's Method is, at firſt to weep,</l>
+                  <l>And ever after <hi>Halcyon</hi> days to keep.</l>
+               </lg>
+               <pb n="3" facs="tcp:66337:3"/>
+               <lg>
+                  <head>II.</head>
+                  <l>Sadneſs, the black'ſt of Paſſions, is defin'd</l>
+                  <l>To be a perturbation of the Mind.</l>
+                  <l>Which from ſome preſent Evil takes its riſe,</l>
+                  <l>That either real, or conceived is.</l>
+                  <l>This fetters all our Senſes, pulleth down</l>
+                  <l>Heav'ns Image, Reaſon, from her rightful Throne,</l>
+                  <l>And in her room, by Fancies pow'rful Charm,</l>
+                  <l>Sets up a feigned Ill to work our Harm.</l>
+                  <l>By which we oft-times to our ſelves create,</l>
+                  <l>And find more trouble in the fond Coneit</l>
+                  <l>Of Things, than in the Things themſelves can er'e</l>
+                  <l>Be found, if ſtrictly they examin'd were.</l>
+                  <l>Wherefore be not too ſedulous to know,</l>
+                  <l>And prie into the ſtate of things below,</l>
+                  <l>How with our ſelves, or others, matters ſtand</l>
+                  <l>Concerning Servants, Moneys, Buſineſs, Lands;</l>
+                  <l>But rather take into regard th' eſteem,</l>
+                  <l>And real judgement which we have of them.</l>
+                  <l>'Tis not within the Pow'r of any Wight,</l>
+                  <l>Of greateſt Wit or Courage, cleareſt ſight,</l>
+                  <l>By one, or all together, that can free</l>
+                  <l>Himſelf from Force, Diſgrace, or Robbery.</l>
+                  <l>But this is in his Pow'r to undertake,</l>
+                  <l>An upright judgment of theſe things to make,</l>
+                  <l>And to content himſelf that they are not</l>
+                  <l>Entirely Evil, as by him they're thought,</l>
+                  <l>But often-times (if he but wiſely knows</l>
+                  <l>To manage them) prove advantageous.</l>
+                  <l>He that is under preſent Trouble brought,</l>
+                  <l>Though ne're ſo great, let him but bend his thought</l>
+                  <l>To a good guarded Conſcience, which a ſure</l>
+                  <l>And laſting Comfort is, and there's his Cure.</l>
+                  <pb n="4" facs="tcp:66337:4"/>
+                  <l>To a good Man nothing can come amiſs,</l>
+                  <l>Not that he feels not what ſad Mis'ry is,</l>
+                  <l>But he doth maſter't, and conſiders all</l>
+                  <l>Bitter Afflictions that do him befall,</l>
+                  <l>Only as matter for his Patience to</l>
+                  <l>Be buſi'd on, leſt it ſhould idle grow;</l>
+                  <l>Or as the Inſtrument, and means of Grace,</l>
+                  <l>And that which opens him a way to paſs</l>
+                  <l>Into Eternal Glory, where the Bleſt</l>
+                  <l>No Sorrows know, but undiſturbed reſt.</l>
+                  <l>A good man may be thought unhappy, though,</l>
+                  <l>If rightly judg'd, he never can be ſo.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>It doth extreamly much abate the keen</l>
+                  <l>Edge of Misfortune, when it is foreſeen;</l>
+                  <l>And to our ſelves to ſtate the matter thus,</l>
+                  <l>Whatever may be, ſhall fall out to us;</l>
+                  <l>For he that's thus prepar'd can never be</l>
+                  <l>Plung'd in ſurprizes of a Miſerie.</l>
+                  <l>All kind of Diſappointments heavy fall</l>
+                  <l>Upon thoſe Men whoſe thoughts, and actions all</l>
+                  <l>Are fixt upon Proſperity, as that</l>
+                  <l>Which they account to be the happieſt ſtate.</l>
+                  <l>What if a man ſhould loſe the half, or all</l>
+                  <l>Of his Eſtate? What if his Houſe ſhould fall?</l>
+                  <l>His Corn be blaſted? and his Friends ſhould leave</l>
+                  <l>Him, when his needs doth their aſſiſtance crave?</l>
+                  <l>What if his Credit ſhould endanger'd be?</l>
+                  <l>(Than which no greater Evil he can ſee)</l>
+                  <l>His Office ta'ne away? his honour'd Gown</l>
+                  <l>Turn'd or'e his Ears, for Crimes to him unknown?</l>
+                  <pb n="5" facs="tcp:66337:4"/>
+                  <l>And to all this let's add tormenting Pain,</l>
+                  <l>Bondage, from which he ne're can freedom gain,</l>
+                  <l>Till welcome Death knocks off th' uneaſie Chain.</l>
+                  <l>A frightful Ruin, laying all things waſte,</l>
+                  <l>And Fire devouring with diſpatchful haſte:</l>
+                  <l>All this to no more comes, than what each wiſe</l>
+                  <l>And prudent Man's prepar'd for, and foreſees.</l>
+                  <l>There is no worldly Miſery that is known,</l>
+                  <l>Which he beforehand has not thought upon,</l>
+                  <l>And made as eaſie to be born by him,</l>
+                  <l>By long conſidering on't from time to time,</l>
+                  <l>As others by long ſuff'rance make't, to whom</l>
+                  <l>A ſecond Nature 'tis almoſt become.</l>
+                  <l>That which to any Man may come to paſs,</l>
+                  <l>May be (for ought we know) each Perſons Caſe.</l>
+                  <l>Where's the Rich Man that can himſelf ſecure</l>
+                  <l>From pinching Hunger, or from being Poor?</l>
+                  <l>Where's the great Man that wholly is exempt</l>
+                  <l>From foul Diſgrace, or Scorners baſe Contempt?</l>
+                  <l>Where is the Kingdom (altho' ne're ſo great,</l>
+                  <l>So rich and Pop'lous) or the Nation that</l>
+                  <l>May not be overturn'd, and have not one</l>
+                  <l>Soul left therein, its moſt ſad Fate to moan?</l>
+                  <l>Have we not liv'd to ſee, with our own Eyes,</l>
+                  <l>A Great, and Glorious Prince, Religious, Wiſe,</l>
+                  <l>Whoſe Equal never any Kingdom had,</l>
+                  <l>Brought to the Fatal Block, there loſe his head,</l>
+                  <l>By his own Subjects impious command,</l>
+                  <l>And this perform'd by th' common Hang-man's hand?</l>
+                  <l>A Villany beyond Example great!</l>
+                  <l>And ſuch as of the like no Book doth treat.</l>
+                  <l>Yet theſe prodigeous Changes mention'd here,</l>
+                  <l>Not Works of long and tedious Ages are,</l>
+                  <l>There but a Moment's difference doth lye</l>
+                  <l>'Twixt flowing Plenty, and ſtarv'd Beggery,</l>
+                  <pb n="6" facs="tcp:66337:5"/>
+                  <l>The glorious coſtly Court, and the moſt mean,</l>
+                  <l>Cold-ragged Cottage of the pooreſt Man;</l>
+                  <l>A lofty Throne, adorn'd with Gems of price,</l>
+                  <l>And a rais'd Scaffold where the Pris'ner dyes.</l>
+                  <l>This is the ſtrangely variable ſtate</l>
+                  <l>Of Humane things, ſo very ſickle, that</l>
+                  <l>What was to day another Perſons Lot,</l>
+                  <l>May be to Morrow mine, as well as not;</l>
+                  <l>No Man endures ill Fortune with leſs harm,</l>
+                  <l>Than he that always doth expect its Storm.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>Virtue has in Proſperity but ſmall,</l>
+                  <l>Or no occaſion to appear at all.</l>
+                  <l>But in that diſmal Melancholy Hour</l>
+                  <l>Of ſad Adverſity, her Conqu'ring Pow'r</l>
+                  <l>Is in our Patience manifeſted ſo,</l>
+                  <l>That to her ſtrength the ſtouteſt Troubles bow.</l>
+                  <l>We are become a Spectacle (ſaith <hi>Paul</hi>)</l>
+                  <l>To God, and Angels, Men in general.</l>
+                  <l>And 'tis a ſight in which God takes delight,</l>
+                  <l>To ſee a brave Man with ill Fortune fight;</l>
+                  <l>With head-ſtrong Paſſions, and all Caſualties,</l>
+                  <l>(Thoſe his confounding ſtubborn Enemies)</l>
+                  <l>And in great Triumph leading, as he goes,</l>
+                  <l>All his Domeſtick and his Forreign Foes.</l>
+                  <l>A Pilot's skill is not diſcern'd at all</l>
+                  <l>In Governing a Ship, when under Sail</l>
+                  <l>In a ſmooth quiet Sea, and gentle Gale.</l>
+                  <l>And He that is not try'd, hath this miſchance</l>
+                  <l>To live in an unfruitful Ignorance.</l>
+                  <l>And yet when try'd how apt are moſt of us</l>
+                  <l>Unwiſely to complain, and cry out thus—</l>
+                  <pb n="7" facs="tcp:66337:5"/>
+                  <l>Moſt miſerable Men, that ever we</l>
+                  <l>Should have endur'd ſo great Calamity!</l>
+                  <l>When as moſt happy Men (ſay I) we are,</l>
+                  <l>That by this means have gain'd this profit here,</l>
+                  <l>That with great Honour, and brave Conſtancy,</l>
+                  <l>We have bore up our ſelves in Miſery;</l>
+                  <l>Where others would perchance have ſhrunk, or fell</l>
+                  <l>Under the Burthen, which we manag'd well.</l>
+                  <l>We therefore are not to give up, and yield</l>
+                  <l>Our ſelves, but ſtoutly muſt maintain the Field,</l>
+                  <l>In Croſſes and Diſaſters, and there ſtand</l>
+                  <l>Firm to encounter all their dreadful Band.</l>
+                  <l>For 'tis but bravely ſtanding to their Front,</l>
+                  <l>And breaking of their firſt and furious Brunt,</l>
+                  <l>And we ſhall find the reſt to be no more</l>
+                  <l>But Fancy and Opinion, of no Pow'r.</l>
+                  <l>The Works of Nature in all Perſons are</l>
+                  <l>Found to be all alike, no Blame's in Her.</l>
+                  <l>But for Diſcredit, Contumely, low</l>
+                  <l>Deſpiſed Poverty, and what elſe we know</l>
+                  <l>Are Evils call'd by the ignoble Rout,</l>
+                  <l>Who ſeldom have a right well guided thought,</l>
+                  <l>Some there are known who do endure them all</l>
+                  <l>With a ſubmiſſive Patience, and they fall</l>
+                  <l>On others who no reck'ning of them make,</l>
+                  <l>Nor notice of them in the leaſt do take.</l>
+                  <l>So that 'tis not the force (as ſome Men own)</l>
+                  <l>Of any Natural Impreſſion</l>
+                  <l>That we do labour under, but 'tis hence,</l>
+                  <l>From a perverſe Opinion's Influence.</l>
+                  <l>Why then ſhould Man ſo horridly belie</l>
+                  <l>Himſelf, and call that a Calamity,</l>
+                  <l>A Burthen inſupportable, which he</l>
+                  <l>May order ſo, that it ſhall eaſie be?</l>
+                  <l>Let him but his Opinion change of it,</l>
+                  <l>And then 'twill eaſie on his Shoulders ſit.</l>
+                  <pb n="8" facs="tcp:66337:6"/>
+                  <l>Each Man is juſt as miſerable as</l>
+                  <l>Upon himſelf he doth a judgment paſs;</l>
+                  <l>And let him ſtill complain of what he will,</l>
+                  <l>Yet there is no Affliction half ſo ill</l>
+                  <l>As his impatience, this is of the two</l>
+                  <l>The greater Miſchief, and moſt harm will do.</l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>Is there a Sickneſs, or a Pain ſo great,</l>
+                  <l>So very ſtubborn, and ſo obſtinate,</l>
+                  <l>That in ſome meaſure Time will not allay,</l>
+                  <l>Or take it from us utterly away?</l>
+                  <l>If ſo, the Queſtion is, Whether 'tis fit</l>
+                  <l>That we our ſelves ſhould put an end to it;</l>
+                  <l>Or whether we with Patience ſhould attend</l>
+                  <l>Till it without us cometh to an end?</l>
+                  <l>For Time, to whom all Earthly things muſt bow,</l>
+                  <l>Will moſt aſſuredly at laſt that do;</l>
+                  <l>Which common Prudence at the preſent might</l>
+                  <l>Better perform, would it aſſert it's right.</l>
+                  <l>Nay, had we ne're ſo prone, ſo great a Will,</l>
+                  <l>To entertain and cheriſh in us ſtill</l>
+                  <l>Bewitching Melancholy, 'twould depart</l>
+                  <l>At length, in ſpight of all our Pow'r and Art.</l>
+                  <l>'Tis true, that Grief when it is freſh i'th' mind,</l>
+                  <l>May Tenderneſs, and much Compaſſion find;</l>
+                  <l>But when it waxeth old, it apiſh grows,</l>
+                  <l>Than which there's nothing that's more odious.</l>
+                  <l>If an unhappy Wretch advantag'd were</l>
+                  <l>By ſobbing and lamenting, he ſhould ne're</l>
+                  <l>By me be hinder'd, but have my conſent</l>
+                  <l>That's Days and Nights in Sighs and Groans be ſpent,</l>
+                  <l>In all the Outrages that er'e was known</l>
+                  <l>By a dejected Creature to be done;</l>
+                  <pb n="9" facs="tcp:66337:6"/>
+                  <l>But if our Howling and our Crying be</l>
+                  <l>Of no advantage in our Miſerie,</l>
+                  <l>Let's to victorious Reſolutions ſly,</l>
+                  <l>And fight our troubles till they vanguiſh'd lye.</l>
+                  <l>That Pilot merits to be thrown o're-Bord</l>
+                  <l>That in a Storm will not his skill afford.</l>
+                  <l>But quits the Helm, and ſets the Ship adriſt,</l>
+                  <l>In that great danger for her ſelf to ſhift.</l>
+                  <l>But he that ſtands with a Courageous heart,</l>
+                  <l>Firm to his Tackle, and with all his Art</l>
+                  <l>Bears briskly up againſt the Storm, though He</l>
+                  <l>Should with the Veſſel over-whelmed be,</l>
+                  <l>Yet dies with Honour and the Comfort too</l>
+                  <l>Of having done what he was bound to do.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="10" facs="tcp:66337:7"/>
+               <head>MANUDUCTIO ad COELUM, A POEM.</head>
+               <head type="sub">PART II.</head>
+               <argument>
+                  <p>Of Patience, the Occaſions and Effects of it. The Signs of it. An Exhortation to it, with Inſtructions how to behave our ſelves in Adverſity. The neceſſity of Perſeverance.</p>
+               </argument>
+               <lg>
+                  <head>I.</head>
+                  <l>PAtience a Virtue is, that makes Mankind</l>
+                  <l>To bear Affliction with an even mind.</l>
+                  <l>But as of Mis'ries ſev'ral ſorts there are,</l>
+                  <l>Some more vexatious, and ſome leſs, ſo there</l>
+                  <l>Are ſev'ral Names which fitly we beſtow</l>
+                  <l>On humble Patience, ſuitable unto</l>
+                  <l>The various Evils which it is to be</l>
+                  <l>Practic'd upon, to try its Conſtancy.</l>
+                  <l>Patience, ſo called properly, is this;</l>
+                  <l>An Heav'nly Gift of bearing Injuries,</l>
+                  <pb n="11" facs="tcp:66337:7"/>
+                  <l>Without the leaſt diſturbance of the Mind,</l>
+                  <l>And with a Courage not to be confin'd.</l>
+                  <l>When it relates to the low worthleſs things,</l>
+                  <l>(Which oft-times trouble to the Owner bring,)</l>
+                  <l>The loſs of Worldly Goods, and Fortune, we</l>
+                  <l>Give it the Name of <hi>Equanimitie,</hi>
+                  </l>
+                  <l>And that which buoys the Heart up (which the ſear</l>
+                  <l>And Fountain is of active Life, and Heat)</l>
+                  <l>In the delays, and the defeat of ſome</l>
+                  <l>Expected Good, which ne're is found to come,</l>
+                  <l>We have a proper genuine Name, which we</l>
+                  <l>Expreſs this by, call'd <hi>Longanimitie.</hi>
+                  </l>
+                  <l>But the Heroick Virtue which defends,</l>
+                  <l>And fortifies us to all other ends,</l>
+                  <l>Which doth ſupport and comfort us in all</l>
+                  <l>The Grieſs, and Miſeries that do us befal,</l>
+                  <l>Is known by the all-glorious Name, which we</l>
+                  <l>Deſerv'dly give't, unſhaken <hi>Conſtancie.</hi>
+                  </l>
+                  <l>A Virtue which all others doth exeed.</l>
+                  <l>And which we more than all the reſt do need.</l>
+                  <l>'Tis not for nothing that Mans Life is here</l>
+                  <l>A Warfare call'd, conſid'ring how we are</l>
+                  <l>With Foes beſet, what Troops of Miſchiefs break</l>
+                  <l>Dayly into us, their Revenge to wreak.</l>
+                  <l>There's not a nimble Moment ſlips away</l>
+                  <l>Without a fierce Aſſault, and furious Fray;</l>
+                  <l>And if we had no ſpiteful Foes without,</l>
+                  <l>Yet we ſhould find it work enough to rout</l>
+                  <l>Thoſe cruel ones which in our Boſoms lie,</l>
+                  <l>Strugling with us to gain a Victory.</l>
+                  <l>We breed and Harbour Enemies enow.</l>
+                  <l>Within our ſelves to work our overthrow;</l>
+                  <l>That give no reſpite, but do all they can</l>
+                  <l>To torture, and diſturb the Soul of Man.</l>
+                  <l>Weeping we come into the World, and ſo</l>
+                  <l>We live in it, and ſo do forth of't go.</l>
+                  <pb n="12" facs="tcp:66337:8"/>
+                  <l>'Tis the firſt thing we learn, in our young Morn,</l>
+                  <l>And Dawn of Years, ſo ſoon as we are Born;</l>
+                  <l>And we can find our Eyes with Tears diſtil,</l>
+                  <l>When we of nothing elſe are capable.</l>
+                  <l>Divers there are upon Record, who while</l>
+                  <l>They here convers'd were never known to ſmile,</l>
+                  <l>But we ne're heard of any Perſon yet</l>
+                  <l>Whoſe Eyes a penſive-Tear did never let.</l>
+                  <l>It therefore doth concern us all to be</l>
+                  <l>With Patience arm'd, without which Virtue we</l>
+                  <l>No Noble Conqueſt o're our Foes can gain,</l>
+                  <l>Nor e're Perfections glorious height attain.</l>
+                  <l>No Mortal knows the Luſter of this Gem,</l>
+                  <l>Nor rightly how to give't its due Eſteem;</l>
+                  <l>Till he doth read it, that's to ſay, till He</l>
+                  <l>Is plung'd into the Sea of Miſery.</l>
+                  <l>Never was any prudent Perſon known</l>
+                  <l>To be impatient in Affliction.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>He has the more to fear, and juſtly too,</l>
+                  <l>That never yet did Adverſe Fortune know:</l>
+                  <l>The learn'd Phyſicians do in this agree,</l>
+                  <l>There may too good a ſtate of Body be;</l>
+                  <l>And that there nothing is more dang'rous than</l>
+                  <l>A Plethory unto the Health of Man.</l>
+                  <l>So a dead Calm at Sea, the Sea-men cry,</l>
+                  <l>Is a Fore-runner of a Storm that's nigh.</l>
+                  <l>If we are under the unpleaſant ſtroke</l>
+                  <l>Of froward Accidents, we are not to look</l>
+                  <l>Upon it as a Cruelty, or own</l>
+                  <l>We undergo a Perſecution;</l>
+                  <l>But a Conteſt, which will our Temples Crown</l>
+                  <l>With a Victorious Wreath, and gain Renown.</l>
+                  <pb n="13" facs="tcp:66337:8"/>
+                  <l>Without a Fight there can no Conqueſt be,</l>
+                  <l>And Triumph none, without a Victory.</l>
+                  <l>Now if our Captain of Salvation was</l>
+                  <l>Himſelf to ſuffer, and this way to paſs</l>
+                  <l>Into his Glory, ſhall ſuch Worms as we,</l>
+                  <l>Such abject Creatures, think to go Scot-free,</l>
+                  <l>And Gratis be partakers made of what</l>
+                  <l>Another hath at ſuch a dear rate bought.</l>
+                  <l>He that doth think by any other way,</l>
+                  <l>Than through Afflictions Door, to enter Joy,</l>
+                  <l>Deceives himſelf, for Tribulation is</l>
+                  <l>The Rode chalk'd out unto the Seat of Bliſs.</l>
+                  <l>A Chriſtians Sacramental Oath is this,</l>
+                  <l>To do all good, and ſuffer Injuries.</l>
+                  <l>Lively to Paint, and the true Tokens ſhow,</l>
+                  <l>Of a moſt perfect Patience, come we now.</l>
+                  <l>He that has reach'd that happy Point doth bear</l>
+                  <l>All adverſe Fortune that befalls him here,</l>
+                  <l>And in the height of all his Woes is known</l>
+                  <l>To ſhow no Signs of Reluctation:</l>
+                  <l>He murmurs not under the ſcourging Rod,</l>
+                  <l>Nor Ill for Ill returns, but always good.</l>
+                  <l>He loves his Foes with an unfeigned Love,</l>
+                  <l>And to the Throne of the great God above</l>
+                  <l>Sends up his Pray'rs in the behalf of thoſe</l>
+                  <l>Who ſeek to Rob him of his ſweet Repoſe.</l>
+                  <l>He ſees the gentle hand of the moſt High</l>
+                  <l>In his Afflictions, and ſubmiſſively</l>
+                  <l>Sits down, and either nothing ſays at all,</l>
+                  <l>Or for Relief to none but Heav'n doth call,</l>
+                  <l>Reſolv'd with Joy and thankfulneſs to bear</l>
+                  <l>What God ſees fit to lay upon him here.</l>
+                  <l>To Sum up all, it is an high degree</l>
+                  <l>Of Patience to endure contentedly</l>
+                  <l>The wrong our Brother doth us, though the Man</l>
+                  <l>Be to us as injurious as he can.</l>
+               </lg>
+               <pb n="14" facs="tcp:66337:9"/>
+               <lg>
+                  <head>III.</head>
+                  <l>When we do loſe our Worldly Goods, 'tis no</l>
+                  <l>Small comfort to us ſome time to beſtow</l>
+                  <l>A ſerious thought on their uncertain ſtate,</l>
+                  <l>And how, when once encreas'd, they do abate.</l>
+                  <l>What er'e we love, or in this World poſſeſs,</l>
+                  <l>A flitting Fugitive by Nature is;</l>
+                  <l>It is with us indeed, but by juſt right</l>
+                  <l>It is not ours, nor can we ſtay it's flight.</l>
+                  <l>And we are not to fool our ſelves, and run</l>
+                  <l>Into a vain and needleſs Paſſion,</l>
+                  <l>For a fantaſtick thought our idle Brain,</l>
+                  <l>Of their continuance here, doth entertain.</l>
+                  <l>For we to every thing uncertain are,</l>
+                  <l>Whereas we firmly ſhould to it adhere;</l>
+                  <l>And therefore can expect that ought ſhould be</l>
+                  <l>Conſtant to us, for our Inconſtancy.</l>
+                  <l>Virtue the only thing excepted is,</l>
+                  <l>This truly's that which doth immortalize</l>
+                  <l>Mortality it ſelfe; all elſe we find</l>
+                  <l>Carry their Death with them, and are but Wind.</l>
+                  <l>Betwixt our ſelves and our Poſſeſſions then,</l>
+                  <l>Let's keep a diſtance wide enough, for when</l>
+                  <l>They come to mingle and incorporate,</l>
+                  <l>He takes our Heart, that taketh our Eſtate.</l>
+                  <l>A good Man cannot properly be ſaid,</l>
+                  <l>To ſuffer loſs of any thing he had,</l>
+                  <l>For whatſoer'e of Wealth or Honour can</l>
+                  <l>Be from him took, is no part of the Man;</l>
+                  <l>But ſomewhat added to his Perſon, that,</l>
+                  <l>Whether it ſtays or goes, he values not,</l>
+                  <l>Eſteeming not himſelfe to be at all</l>
+                  <l>Richer, or Poorer, let what will befal.</l>
+                  <pb n="15" facs="tcp:66337:9"/>
+                  <l>O what a deal of pudder do we make,</l>
+                  <l>How loud our Out-cries and our Sorrows ſpeak,</l>
+                  <l>When we our Mony loſe, or when from us,</l>
+                  <l>Death takes a Child, or fire conſumes our Houſe!</l>
+                  <l>But we can leave our Virgin Modeſty,</l>
+                  <l>Part with our Virtue, and our Conſtancy,</l>
+                  <l>And not ſo much as in our Faces ſhow</l>
+                  <l>A conſcious Bluſh, when any of them go.</l>
+                  <l>And yet we here, without a troubled thought,</l>
+                  <l>Loſe a ſubſtantial Good, and more then that,</l>
+                  <l>We likewiſe part with what's our own, whereas</l>
+                  <l>In th' other Caſe we let not either paſs.</l>
+                  <l>He that Laments for ſuch a triffling loſs,</l>
+                  <l>Deſerves to feel the Worlds ſevereſt Croſs.</l>
+                  <l>If 'twere not for a ſtrange diſorder'd Love,</l>
+                  <l>(Which to our Peace the ſatal'ſt Foe doth prove)</l>
+                  <l>We ſhould not then this falſity believe,</l>
+                  <l>We ought had loſt that this vain World can give.</l>
+                  <l>For what are outward things, what profit can</l>
+                  <l>Their poor enjoyments give the inward Man?</l>
+                  <l>Or betwixt Wiſdom and our Money, what</l>
+                  <l>True Correſpondence can there well be thought?</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>It would do well, in whatſoever we</l>
+                  <l>Do goe about, to ſhow ſuch Prudencie,</l>
+                  <l>As to take in the Adjuncts that attend</l>
+                  <l>The Thing on which our buſie thoughts we bend.</l>
+                  <l>For there are many Curcumſtances that,</l>
+                  <l>For want of heed and fore-ſight, may create</l>
+                  <l>Vexation to us, and ſuch Tempeſts raiſe,</l>
+                  <l>That will diſturb our ſweet Repoſe and Joys,</l>
+                  <l>I call my Servant, and perchance it may</l>
+                  <l>Be his misfortune to be out o'th' way;</l>
+                  <pb n="14" facs="tcp:66337:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:66337:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="61" facs="tcp:66337:11"/>
+                  <l>Or elſe he idle ſtands, and does not go</l>
+                  <l>About the Bus'neſs which I'd have him do.</l>
+                  <l>I am to make a Viſit, who knows but</l>
+                  <l>The Man will not be ſeen, or elſe may ſhut,</l>
+                  <l>The Door againſt me, and refuſe to me</l>
+                  <l>Admittance, valuing not my Company.</l>
+                  <l>Suppoſe but this beforehand, and we ſhall</l>
+                  <l>Think all is well, and never vex at all.</l>
+                  <l>It is the wambling of a nauſeous mind,</l>
+                  <l>(The chief Diſeaſe that reigns in Woman-kind,)</l>
+                  <l>To fret and brawl, becauſe that ſuch a one</l>
+                  <l>Admittance had, where I was bid be-gon.</l>
+                  <l>I could not get ſo much as one poor Word</l>
+                  <l>With ſuch a Perſon, at his well-fill'd Board,</l>
+                  <l>Down to the lower end I crowded was,</l>
+                  <l>When I deſerv'd to have the chiefeſt place.</l>
+                  <l>He that's not mov'd with this, no notice takes</l>
+                  <l>At all of it, into no Paſſion breaks.</l>
+                  <l>And he that underſtands it not to be</l>
+                  <l>Matter of Courſe, and meer Formality,</l>
+                  <l>Without diſpute muſt be concluded one</l>
+                  <l>That to th' Affairs of Humane life's unknown.</l>
+                  <l>If we can mend it let us, and if not,</l>
+                  <l>Like Virtue's Souldiers let us take our Lot.</l>
+                  <l>We daily apt are loudly to exclaim</l>
+                  <l>Againſt the Evils of our Age, to blame</l>
+                  <l>Sly Malice, Impudence, and Wickedneſs,</l>
+                  <l>And we do well, and prudently in this,</l>
+                  <l>If we can but reform the World, and drive</l>
+                  <l>Out of't the Fools and Knaves that in it live.</l>
+                  <l>But if this will not be, our Prudence ought</l>
+                  <l>To teach our Tongues not to be finding fault;</l>
+                  <l>Since 'tis no new device for men to go</l>
+                  <l>In their own way, and what they pleaſe to do.</l>
+                  <l>Why don't we rather turn the blame upon</l>
+                  <l>Our ſelves, for hoping what can ne're be done?</l>
+                  <pb n="17" facs="tcp:66337:11"/>
+                  <l>The World was never otherwiſe, nor e're</l>
+                  <l>Will other be, while we continue here;</l>
+                  <l>As long as there are Men, there faults will be,</l>
+                  <l>Should they remain unto Eternitie.</l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>He that doth labour under any weight</l>
+                  <l>Of ſad Affliction, be it ſmall or great,</l>
+                  <l>Should wiſely ponder not ſo much upon</l>
+                  <l>What are his Suffrings, as what he has done.</l>
+                  <l>And what he now ſo highly doth reſent,</l>
+                  <l>Eſteeming it a rig'rous Puniſhment,</l>
+                  <l>Will then be found, as it deſerves to be,</l>
+                  <l>A gentle Mercy, not Severitie:</l>
+                  <l>And that the ſtrokes of this reforming Rod</l>
+                  <l>Are laid upon him by Almighty-God</l>
+                  <l>To work his good, to make him more ſubmiſs,</l>
+                  <l>To try and harden him in Miſeries,</l>
+                  <l>And ſo reclaim him, that his Reaſon may</l>
+                  <l>O're all his Paſſions have a Sov'raign ſway.</l>
+                  <l>They that enjoy their fill of Pleaſure here,</l>
+                  <l>Oft kept for Torments in the next World are,</l>
+                  <l>He that doth tumble in his deareſt Gold,</l>
+                  <l>And ſmiling-Plenty in his Arms doth hold,</l>
+                  <l>Who knows how He'd behave himſelf, ſhou'd He</l>
+                  <l>Feel the hard ſtate of Want and Penurie?</l>
+                  <l>Or with what firmneſs any Perſon wou'd</l>
+                  <l>Abide the Rage and Odium of the Crowd;</l>
+                  <l>That by their favour, almoſt all his Days,</l>
+                  <l>High marks of Honour has receiv'd, and Praiſe?</l>
+                  <l>We're Prompt enough our Comforts to apply,</l>
+                  <l>And give advice to men in Miſery;</l>
+                  <l>Why don't we rather to our Diſcontents<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Afford theſe choice and healing Documents;</l>
+                  <pb n="17" facs="tcp:66337:12"/>
+                  <l>And turn th' Advice upon our ſelves, when God</l>
+                  <l>Gives us a taſte of his reforming Rod?</l>
+                  <l>We can ſubmit unto the Chyrurgion's Art,</l>
+                  <l>To ſave the Body, with a gladſome Heart,</l>
+                  <l>Can loſe a Limb, and for the ſmarting-Blow</l>
+                  <l>Thank him, and for his pains reward him too.</l>
+                  <l>Affliction is Gods Remedy, and this,</l>
+                  <l>For the Souls Health, in ſome Diſtempers, is</l>
+                  <l>As needful as Conſuming fire can be</l>
+                  <l>To Cauterize a Gangreen'd Maladie:</l>
+                  <l>And yet we are extreamly prone to break</l>
+                  <l>Into ingrate Complaints, and to miſtake,</l>
+                  <l>And look on that to be a mighty loſs,</l>
+                  <l>And Miſery, which is not ſo to us,</l>
+                  <l>But in the intention, and in the Effect,</l>
+                  <l>Is a ſafe Cure, and doth our Good reſpect.</l>
+                  <l>If Poverty, Sickneſs, or whatever we</l>
+                  <l>Do Evil call, might but ſuppoſed be</l>
+                  <l>To take upon them this unheard-of Task,</l>
+                  <l>To Reaſon with us, and theſe Queſtions ask;</l>
+                  <l>'Sirs, What's your Quarrel to us? Very fain</l>
+                  <l>'We'd know what hurt you do by us ſuſtain?</l>
+                  <l>'Have we been known at any time ſo rude,</l>
+                  <l>'To take your Juſtice, Prudence, Fortitude;</l>
+                  <l>'Or any thing beſides that good was known,</l>
+                  <l>'And you could call in proper Terms your own?</l>
+                  <l>'May you not with us, as without us be</l>
+                  <l>'As free from Cares, and live as Merrily?</l>
+                  <l>To this we ought not, nor ſhould dare to ſpeak,</l>
+                  <l>Silence muſt here the only anſwer make.</l>
+                  <l>The Matter duly weigh'd, and underſtood,</l>
+                  <l>We Good for Ill do take, and Ill for Good.</l>
+                  <l>And our impatience is the moſt ſevere,</l>
+                  <l>And greateſt Evil that befals us here.</l>
+               </lg>
+               <pb n="18" facs="tcp:66337:12"/>
+               <lg>
+                  <head>VI.</head>
+                  <l>In the concerns of others, it may be</l>
+                  <l>We ſo may act Arts of Hypocriſie,</l>
+                  <l>And ſhow ſuch Symptoms of a conſtant mind,</l>
+                  <l>And Speech ſo well compact, that it would blind</l>
+                  <l>The moſt diſcerning Eye; but in our own</l>
+                  <l>Our cunning fails us, and the Cheat is ſhown.</l>
+                  <l>Our Duty 'tis to ſhed a Pious Tear,</l>
+                  <l>With thoſe that Weep, and in Affliction are;</l>
+                  <l>But though our Tears in common be, there's no</l>
+                  <l>Reaſon the Cauſe of them muſt be ſo too.</l>
+                  <l>We are as much as in us lies, to be</l>
+                  <l>A Friend to thoſe who are in Miſery,</l>
+                  <l>If we receive an injury, let this</l>
+                  <l>Be well conſider'd, that there nothing is</l>
+                  <l>That can befall us, but there doth belong</l>
+                  <l>Two handles to't, a right one, and a wrong;</l>
+                  <l>Take it but by the right, and then we ſhall</l>
+                  <l>Not look upon our ſelves as wrong'd at all.</l>
+                  <l>The Man's unjuſt. If we do take't that way,</l>
+                  <l>Theſe Furies haunt us, which our Peace deſtroy;</l>
+                  <l>Revengful Anger, and wild Violence,</l>
+                  <l>Which make a Mountain of each ſmall Offence.</l>
+                  <l>But if we take it on the other ſide,</l>
+                  <l>He's one for whom the Bleſſed Jeſus dy'd;</l>
+                  <l>Redeem'd with us by the ſame precious Blood,</l>
+                  <l>To the ſame Glory called out, and woo'd;</l>
+                  <l>The turning of our thoughts this way, be ſure</l>
+                  <l>Will to our minds a laſting Calm procure.</l>
+                  <l>We likewiſe may (and herein Wiſdom's ſhown)</l>
+                  <l>Upon it paſs this ſhort reflexion;</l>
+                  <l>In matter of reproof we ſooner ſhall,</l>
+                  <l>From a profeſſed Foe the truth of all</l>
+                  <pb n="20" facs="tcp:66337:13"/>
+                  <l>Our Follies hear, than from a Boſom Friend,</l>
+                  <l>For 'tis his ſtudy to find faults, and bend</l>
+                  <l>His moſt malicious Pow'rs to ſearch into</l>
+                  <l>Our weakneſs more, and ſtricter than we do;</l>
+                  <l>If we commit the thing that we ſhould not,</l>
+                  <l>Or do neglect to do the thing we ought,</l>
+                  <l>We ſhall be ſure to hear on't, for he'l ſoon</l>
+                  <l>Blazon our failings over all the Town.</l>
+                  <l>Let's therefore walk ſo warily, that we</l>
+                  <l>May make ſome profit of his Enmitie,</l>
+                  <l>And we ſhall be more careful when we know</l>
+                  <l>That there's a Spy upon what-er'e we do.</l>
+               </lg>
+               <lg>
+                  <head>VII.</head>
+                  <l>Of all our Virtues Conſtaney's the Crown,</l>
+                  <l>And the Perfection. The Reward alone</l>
+                  <l>Is promis'd to beginners, yet 'tis ne're</l>
+                  <l>Deliver'd but to thoſe that perſevere.</l>
+                  <l>Wherefore above all other things let's be</l>
+                  <l>Maſters of a reſolved Conſtancie.</l>
+                  <l>In the aſcending to the lofty Top</l>
+                  <l>Of a ſteep Mountain, if we once but ſtop,</l>
+                  <l>In ſtead of ſtanding on its ſlipp'ry ſide,</l>
+                  <l>We down again unto the bottom ſlide.</l>
+                  <l>Firſt let's reſolve on what we are to do,</l>
+                  <l>And then with fervour let us that purſue;</l>
+                  <l>For none but he that is not in his Wits,</l>
+                  <l>Will trifle's buſineſs off to do't by fits.</l>
+                  <l>It is a weakneſs of the mind to be</l>
+                  <l>Roving, and ſeeking of freſh Company,</l>
+                  <l>New ſports, new places, when the fault of this</l>
+                  <l>Wholly in us, not in the Climate is,</l>
+                  <l>Or other Circumſtances which we are</l>
+                  <l>Willing to charge with all our Follies here.</l>
+                  <pb n="21" facs="tcp:66337:13"/>
+                  <l>The tender Plant by oft removing dies,</l>
+                  <l>And oftentimes the change of Remedies</l>
+                  <l>Plungeth the Patient (which would elſe do well)</l>
+                  <l>Into a Sickneſs that's incurable.</l>
+                  <l>If the Divine Apoſtle at a loſs</l>
+                  <l>I'th' Contemplation of his Duty was,</l>
+                  <l>What will become of us, frail Creatures here,</l>
+                  <l>Whoſe Virtues ſcarcely comparable are</l>
+                  <l>Ev'n to his Imperfections, whereof he</l>
+                  <l>So much complain'd in his Mortalitie.</l>
+                  <l>The love of Learning endleſs is, nor can</l>
+                  <l>Extinguiſh'd be, while there remains a Man.</l>
+                  <l>The love of Riches never is to be</l>
+                  <l>Suffic'd, although we heaps on heaps do ſee.</l>
+                  <l>And the fond love of fading Honour ne're</l>
+                  <l>Will be allay'd, while we Corruption bear.</l>
+                  <l>So that we muſt this certain truth confeſs,</l>
+                  <l>That there's no end of all our greedineſs</l>
+                  <l>After the things, which in their Nature are</l>
+                  <l>So ſhort-liv'd found, and ſo uncertain here.</l>
+                  <l>But when we come unto that all Divine</l>
+                  <l>And laſting Wiſdom, which would make us ſhine</l>
+                  <l>Among the Bleſt, and give us endleſs Joys,</l>
+                  <l>Then the leaſt touch and reliſh of it Cloys.</l>
+                  <l>But this is not according to his known</l>
+                  <l>And ſacred Precept, that commands each one</l>
+                  <l>To be as perfect as the God of Bliſs,</l>
+                  <l>Our good and Heav'nly Father, perfect is.</l>
+                  <l>He that looks up but with a willing Mind</l>
+                  <l>To that Example, ſhall not fail to find</l>
+                  <l>A copious place for the encreaſe of each</l>
+                  <l>Virtue of his, till he Perfection reach.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
